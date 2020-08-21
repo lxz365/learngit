@@ -4,4 +4,5 @@ add after git remote add
 create br1 branch & switch to br1
 create iss53 branch
 before commit iss533 edit
-edit at pc 
+edit at pc
+edit at pull in br1
