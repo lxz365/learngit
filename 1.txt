@@ -19,3 +19,6 @@ add data4 in br1 , git push origin localxx: ref
 
 add data1 in br1 & commit
 add data2 in br1 & commit 
+
+add data1 in master & commit
+add data2 in master & commit 
